@@ -7,6 +7,8 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=fff)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wladuardo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wladuardo&theme=dark&hide_border=false)<br/>
