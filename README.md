@@ -1,5 +1,7 @@
 # Hi there, I'm Vladislav!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=23&pause=3000&color=F75555&width=900&lines=I+am+a+developer+of+mobile+software+in+the+Swift+programming+language)](https://git.io/typing-svg)
+# 💫 About Me:
+I am a skilled iOS developer with a rich experience in commercial development of mobile applications for iOS and macOS platforms. I have successfully worked on over 20 projects, including complex high-level tasks. I possess a wide range of skills and tools, such as Swift, iOS SDK, CoreData, Firebase, VIPER, and many others. I work fast and efficiently, have knowledge of OOP, SOLID, and KISS principles, understand the principles of reactive programming and MVVM application architecture. I am good at understanding other people's code and quick to learn new frameworks. In addition, I am capable of working in a team, performing CodeReview, and working with GitFlow. I am ready to relocate to any major city in different countries and passionate about solving interesting and challenging tasks.<br>
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
